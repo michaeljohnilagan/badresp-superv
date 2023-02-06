@@ -2,7 +2,7 @@
 
 Michael John Ilagan and Carl F. Falk
 
-This repository contains computer code the article with the following citation:  
+This repository contains computer code for the article with the following citation:  
 Ilagan, M.J. & Falk, C.F. (2022). Supervised classes, unsupervised mixing proportions: detection of bots in a Likert-type questionnaire. Educational and Psychological Measurement. [https://doi.org/10.1177/00131644221104220](https://doi.org/10.1177/00131644221104220)
 
 ## Abstract
